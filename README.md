@@ -23,7 +23,7 @@ dan salah atau dapat dipanggil boolean dengan rumus:
 ```
 if ekspresi:
     pernyataan_1
-    pernyataan2
+    pernyataan_2
 ```
 Dalam kasus ini, Saya akan menggunakan percabangan bertingkat/beranak. 
 ```
@@ -51,6 +51,7 @@ Ditanyakan, berapakah
 1. keliling yang  diketahui nilai r?
 2. keliling yang  diketahui nilai d?
 3. luas lingkaran?
+
 Jawab, 
 1. keliling yang  diketahui nilai r?
 ```
