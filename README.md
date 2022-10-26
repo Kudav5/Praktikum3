@@ -44,3 +44,29 @@ memilih r atau d?
 1. jika variabel b memilih r maka akan memasukkan variabel r ke rumus k = 2*pi*r lalu mencetak nilai variabel k
 2. jika variabel b memilih d maka akan memasukkan variabel d ke rumus k = pi*d lalu mencetak nilai variabel k
 Dan jika variabel a memilih luas maka akan memasukkan variabel  r ke rumus l = pi*r*r lalu mencetak nilai variabel l
+
+Contoh:
+Diketahui, nilai variabel r = 7 dan nilai variabel d = 14
+Ditanyakan, berapakah 
+1. keliling yang  diketahui nilai r?
+2. keliling yang  diketahui nilai d?
+3. luas lingkaran?
+Jawab, 
+1. keliling yang  diketahui nilai r?
+```
+K = 2 * pi * r
+K = 2 * 3,14 * 7
+K = 
+```
+2. keliling yang  diketahui nilai d?
+```
+K = pi * d
+K = 3,14 * 14
+K = 
+```
+3. luas lingkaran
+```
+L = pi * r * r
+L = 3,14 * 7 * 7
+L =
+```
