@@ -56,17 +56,25 @@ Jawab,
 ```
 K = 2 * pi * r
 K = 2 * 3,14 * 7
-K = 
+K = 43.96 
 ```
+
+![keliling dengan r](foto_praktikum3/keliling%20dengan%20r.png)
+
 2. keliling yang  diketahui nilai d?
 ```
 K = pi * d
 K = 3,14 * 14
-K = 
+K = 43.96
 ```
+
+![keliling dengan d](foto_praktikum3/keliling%20dengan%20d.png)
+
 3. luas lingkaran
 ```
 L = pi * r * r
 L = 3,14 * 7 * 7
-L =
+L = 153.86
 ```
+
+![luas](foto_praktikum3/luas.png)
