@@ -6,8 +6,8 @@ menggunakan python
 '''
 from math import pi
 
-r = input("jari-jari linkaran =...")
-d = input("diameter linkaran =...")
+r = input("jari-jari lingkaran =...")
+d = input("diameter lingkaran =...")
 a = input("pilih keliling atau luas? ")
 r = int(r)
 d = int(d)
